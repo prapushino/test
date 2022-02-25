@@ -11,7 +11,7 @@
 
 	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 	<h1 align="center">
-		<font face="Lato" color="#017bf5" size="7">
+		<font face="Questrial" color="#017bf5" size="7">
 			MAJOR PT - HOMEPAGE
 		</font>
 	</h1>
